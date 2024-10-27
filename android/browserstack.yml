@@ -22,7 +22,7 @@ buildName: browserstack build
 buildIdentifier: '#${BUILD_NUMBER}' # Supports strings along with either/both ${expression}
 # Set `framework` of your test suite. Example, `testng`, `cucumber`, `cucumber-testng`
 # This property is needed to send test context to BrowserStack (test name, status)
-framework: selenide
+framework: selenide-testng
 
 source: selenide:appium-sample-main:v1.0
 
