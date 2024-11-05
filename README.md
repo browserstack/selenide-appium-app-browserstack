@@ -36,7 +36,7 @@ mvn clean
 
 ## Getting Started
 
-Getting Started with Appium tests in TestNg on BrowserStack couldn't be easier!
+Getting Started with Appium tests in Selenide on BrowserStack couldn't be easier!
 
 ### **Run Sample test :**
 
