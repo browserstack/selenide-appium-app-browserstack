@@ -71,7 +71,7 @@ jobs:
         run: |
           cd ios
           mvn compile
-          mvn test     
+          mvn test
       - name: Run ios mvn profile sample-local-test
         run: |
           cd ios
